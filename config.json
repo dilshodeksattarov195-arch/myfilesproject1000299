@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruetch",
+        "uuid": 459563,
+        "checksum": "qh663t"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
